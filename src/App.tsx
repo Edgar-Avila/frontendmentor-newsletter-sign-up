@@ -21,7 +21,7 @@ function App() {
 
             <p>Join 60,000+ product managers receiving monthly updates on:</p>
 
-            <ul className="list-image-[url(images/icon-list.svg)] list-inside">
+            <ul className="list-image-[url(/images/icon-list.svg)] list-inside">
               <li>Product discovery and building what matters</li>
               <li>Measuring to ensure updates are a success</li>
               <li>And much more!</li>
